@@ -7,6 +7,10 @@ How to Test the App
 
 ## Test Credentials
 
+
+- **Email:**teacher.practice@example.com
+- **Password:** TestPassword123!
+
 - **Email:** student@example.com
 - **Password:** TestPassword123!
 
