@@ -10,9 +10,27 @@ How to Test the App
 
 - **Email:**teacher.practice@example.com
 - **Password:** TestPassword123!
-
-- **Email:** student@example.com
+- 
+- **Email:**teacher1@example.com
 - **Password:** TestPassword123!
+
+- **Email:**teacher2@example.com
+- **Password:** TestPassword123!
+
+  - **Email:**teacher3@example.com
+- **Password:** TestPassword123!
+
+
+
+
+- **Email:** student.demo4@example.com
+- **Password:** CourseDemo2026!
+
+- - **Email:** student.demo.b@example.com
+- **Password:** CourseDemo2026!
+
+- - **Email:** student.demo.c@example.com
+- **Password:** CourseDemo2026!
 
 These credentials require the existing test account in the configured database. For a fresh database, use Create an account to register them first.
 
